@@ -1,0 +1,10 @@
+C:\Users\x\source\repos\2сем-3лаб\bin\Debug\2сем-3лаб.exe.config
+C:\Users\x\source\repos\2сем-3лаб\bin\Debug\2сем-3лаб.exe
+C:\Users\x\source\repos\2сем-3лаб\bin\Debug\2сем-3лаб.pdb
+C:\Users\x\source\repos\2сем-3лаб\obj\Debug\2сем-3лаб.csprojAssemblyReference.cache
+C:\Users\x\source\repos\2сем-3лаб\obj\Debug\2сем-3лаб.exe
+C:\Users\x\source\repos\2сем-3лаб\obj\Debug\2сем-3лаб.pdb
+C:\Users\x\source\repos\2сем-3лаб\bin\Debug\Newtonsoft.Json.dll
+C:\Users\x\source\repos\2сем-3лаб\bin\Debug\Newtonsoft.Json.xml
+C:\Users\x\source\repos\2сем-3лаб\obj\Debug\2сем-3лаб.csproj.CopyComplete
+C:\Users\x\source\repos\2сем-3лаб\obj\Debug\2сем-3лаб.csproj.CoreCompileInputs.cache
